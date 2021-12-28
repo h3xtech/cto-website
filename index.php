@@ -591,7 +591,7 @@
                         
                         <div class="timeline-item clearfix">
                           <div class="left-part">
-                            <h5 class="item-period">2011 - 2013</h5>
+                            <h5 class="item-period">June 2020 - Present</h5>
                             <span class="item-company">Koobli</span>
                           </div>
                           <div class="divider"></div>
