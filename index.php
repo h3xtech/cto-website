@@ -549,13 +549,22 @@
                       <div class="timeline timeline-second-style clearfix">
                         <div class="timeline-item clearfix">
                           <div class="left-part">
-                            <h5 class="item-period">2016 - Current</h5>
-                            <span class="item-company">Google</span>
+                            <h5 class="item-period">Oct 2021 - Current</h5>
+                            <span class="item-company">GAMERSE</span>
                           </div>
                           <div class="divider"></div>
                           <div class="right-part">
-                            <h4 class="item-title">Lead Ui/Ux Designer</h4>
-                            <p>Praesent dignissim sollicitudin justo, sed elementum quam lacinia quis. Phasellus eleifend tristique posuere. Sed vitae dui nec magna.</p>
+                            <h4 class="item-title">LChief Technology Officer</h4>
+                            <p>
+                              Key Qualifications & Responsibilities
+                            </p>
+                            <ul>
+                              <li>Brought all company tech and IP back in-house from 3rd parties</li>
+                              <li>Negotiated with multiple difficult to reach stakeholders</li>
+                              <li>Created horizontally scaling EC2, Lamdada and Lightsail architecture</li>
+                              <li>Built a strong team of smart contract developers</li>
+                              <li>Worked with multiple outsourced agencies to bring products back in house</li>
+                            </ul>
                           </div>
                         </div>
 
