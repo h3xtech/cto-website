@@ -159,7 +159,7 @@
                           VP of engineering and finally CTO. 
                       </p>
                       <p>
-                          I have been a CTO since 2016, having worked with New York City power houses, TOp london startups and 
+                          I have been a CTO since 2016, having worked with New York City power houses, Top london startups and 
                           very large crypto hedge funds with over $2 billion in Assets Under Management (AUM).
                       </p>
                       <p>
@@ -225,16 +225,26 @@
                               <i class="lnr lnr-store"></i>
                             </div>
                             <div class="ci-text">
-                              <h4>Ecommerce</h4>
-                              <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales.</p>
+                              <h4>Secure Funding</h4>
+                              <p>Through my extensive network of family offices, off-shore hedge funds and London based venture 
+                                  capital firms and Angel Investors I have helped companies raise over &#163;30,0000,000 in traditional VC funding from firms 
+                                  like Rovio Games, Connect venture, Forward Partners, BetFair Capital and less tradtional crypto funds such as Insula, 
+                                  Coin Shares and Megladon Capital.
+                              </p>
                             </div>
                           </div>
                           <div class="info-block-w-icon">
                             <div class="ci-icon">
                               <i class="lnr lnr-laptop-phone"></i>
                             </div><div class="ci-text">
-                              <h4>Web Design</h4>
-                              <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales.</p>
+                              <h4>Team Building</h4>
+                              <p>
+                                  Having been almost every position in an Technology company, I know what it takes to make each role 
+                                  work properly and I use that experience to look for World-Class talent that can deliver innovative
+                                  products from a fair budget. I create fun and exciting work environments that talented people 
+                                  love to be a part of and create initutives such as Wiskey Wednesdays and Free Fridays that help
+                                  make my companies a melting pot of the best talent.
+                              </p>
                             </div>
                           </div>
                         </div>
@@ -249,16 +259,25 @@
                               <i class="lnr lnr-pencil"></i>
                             </div>
                             <div class="ci-text">
-                              <h4>Copywriting</h4>
-                              <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales.</p>
+                              <h4>Technology</h4>
+                              <p>I'm a software developer and Systems administrator with over 20 years experience in the field. 
+                                  This enables me to pitch in and help deliver an MVP, prototype or proof-of-concept. 
+                                  As a CTO I have regularly gone above and beyond to help my teams achieve their targets as 
+                                  I lead from the front. My most up-to-date skills include; PHP, NodeJS, AWS, Security protocols
+                                  and source code management/deployment. 
+                              </p>
                             </div>
                           </div>
                           <div class="info-block-w-icon">
                             <div class="ci-icon">
                               <i class="lnr lnr-flag"></i>
                             </div><div class="ci-text">
-                              <h4>Management</h4>
-                              <p>Pellentesque pellentesque, ipsum sit amet auctor accumsan, odio tortor bibendum massa, sit amet ultricies ex lectus scelerisque nibh. Ut non sodales.</p>
+                              <h4>Tools</h4>
+                              <p>
+                                  Over the years I've seen tools come and go. Macromedia HomeSite, DreamWeaver, Flash, Google Wave
+                                  GeoSites and many more. I'm also well versed and up-to-date with all of the modern project management
+                                  and team building tools such as BaseCamp, Slack, Jira, GitLab, Telegram and many others. 
+                              </p>
                             </div>
                           </div>
                         </div>
