@@ -40,7 +40,7 @@
           <header id="site_header" class="header mobile-menu-hide">
             <div class="header-content">
               <div class="header-photo">
-                <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGIkd2d-wFjyw/profile-displayphoto-shrink_800_800/0/1632747636886?e=1646265600&v=beta&t=-Fbc02mMW2LmKzziAO_ZmQDTTj8dYMqhRGfe0HxXnnw" alt="James Vince">
+                <img src="/img/me.jpeg" alt="James Vince">
               </div>
               <div class="header-titles">
                 <h2>James Vince</h2>
