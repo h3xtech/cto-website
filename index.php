@@ -197,7 +197,7 @@
 
                           <li>
                             <span class="title">Telegram</span>
-                            <span class="value"><a href="https://t.me/" target="_blank">h3xTech</span>
+                            <span class="value"><a href="https://t.me/" target="_blank">h3xTech</a></span>
                           </li>
                         </ul>
                       </div>
