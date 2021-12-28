@@ -430,7 +430,7 @@
                     <div class="col-xs-12 col-sm-12">
 
                       <div class="block-title">
-                        <h3>Pricing</h3>
+                        <h3>Rates</h3>
                       </div>
                     </div>
                   </div>
@@ -442,16 +442,16 @@
                         <div class="fw-package-wrap col-md-6 ">
                           <div class="fw-package">
                             <div class="fw-heading-row">
-                              <span>Silver</span>
+                              <span>Freelance</span>
                             </div>
                             
                             <div class="fw-pricing-row">
-                              <span>$64</span>
+                              <span>$15,000 USD</span>
                               <small>per month</small>
                             </div>
                             
                             <div class="fw-button-row">
-                              <a href="#" target="_self" class="btn btn-secondary">Free Trial</a>
+                              <a href="#" target="_self" class="btn btn-secondary">Enquire</a>
                             </div>
 
                             <div class="fw-default-row">Lorem ipsum dolor</div>
@@ -463,23 +463,21 @@
                         <div class="fw-package-wrap col-md-6 highlight-col ">
                           <div class="fw-package">
                             <div class="fw-heading-row">
-                              <span>Gold</span>
+                              <span>Employee</span>
                             </div>
                             
                             <div class="fw-pricing-row">
-                              <span>$128</span>
-                              <small>per month</small>
+                              <span>$200,000</span>
+                              <small>per year</small>
                             </div>
 
                             <div class="fw-button-row">
-                              <a href="#" target="_self" class="btn btn-primary">Free Trial</a>
+                              <a href="#" target="_self" class="btn btn-primary">Enquire</a>
                             </div>
                             
                             <div class="fw-default-row">Lorem ipsum dolor</div>
                             <div class="fw-default-row">Pellentesque scelerisque</div>
                             <div class="fw-default-row">Morbi eu sagittis</div>
-                            <div class="fw-default-row">Donec non diam</div>
-                            <div class="fw-default-row"></div>
                           </div>
                         </div>
 
