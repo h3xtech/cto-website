@@ -618,25 +618,25 @@
                       <div class="timeline timeline-second-style clearfix">
                         <div class="timeline-item clearfix">
                           <div class="left-part">
-                            <h5 class="item-period">2008</h5>
+                            <h5 class="item-period">2021-2023</h5>
                             <span class="item-company">University of Studies</span>
                           </div>
                           <div class="divider"></div>
                           <div class="right-part">
-                            <h4 class="item-title">Frontend Development</h4>
-                            <p>Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis ante.</p>
+                            <h4 class="item-title">Execuritve MBA Business</h4>
+                            <p>Focus on Business administration and marketing.</p>
                           </div>
                         </div>
 
                         <div class="timeline-item clearfix">
                           <div class="left-part">
-                            <h5 class="item-period">2007</h5>
-                            <span class="item-company">University of Studies</span>
+                            <h5 class="item-period">2003-2006</h5>
+                            <span class="item-company">Coventey university</span>
                           </div>
                           <div class="divider"></div>
                           <div class="right-part">
-                            <h4 class="item-title">Graphic Design</h4>
-                            <p>Aliquam tincidunt malesuada tortor vitae iaculis. In eu turpis iaculis, feugiat risus quis, aliquet urna. Quisque fringilla mollis risus, eu pulvinar dolor.</p>
+                            <h4 class="item-title">Network Security and Ethical Hacking</h4>
+                            <p>Focus on Cryptography and auditing for red team management.</p>
                           </div>
                         </div>
                       </div>
