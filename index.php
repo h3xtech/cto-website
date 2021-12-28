@@ -162,22 +162,22 @@
                         <ul>
                           <li>
                             <span class="title">Age</span>
-                            <span class="value">32</span>
+                            <span class="value">38</span>
                           </li>
 
                           <li>
                             <span class="title">Residence</span>
-                            <span class="value">USA</span>
+                            <span class="value">United Kingdom</span>
                           </li>
 
                           <li>
                             <span class="title">Address</span>
-                            <span class="value">88 Some Street, Some Town</span>
+                            <span class="value">Level 39, One Canada Square London</span>
                           </li>
 
                           <li>
                             <span class="title">e-mail</span>
-                            <span class="value">email@example.com</span>
+                            <span class="value">info[at]jamesvince.me</span>
                           </li>
 
                           <li>
