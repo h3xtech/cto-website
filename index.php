@@ -1073,21 +1073,21 @@
                     <div class="col-xs-12 col-sm-4">
                       <div class="lm-info-block gray-default">
                         <i class="lnr lnr-map-marker"></i>
-                        <h4>San Francisco</h4>
+                        <h4>London</h4>
                         <span class="lm-info-block-value"></span>
                         <span class="lm-info-block-text"></span>
                       </div>
 
                       <div class="lm-info-block gray-default">
                         <i class="lnr lnr-phone-handset"></i>
-                        <h4>415-832-2000</h4>
+                        <h4><a href="https://t.me/h3xTech">h3xTech</a></h4>
                         <span class="lm-info-block-value"></span>
                         <span class="lm-info-block-text"></span>
                       </div>
 
                       <div class="lm-info-block gray-default">
                         <i class="lnr lnr-envelope"></i>
-                        <h4>alex@example.com</h4>
+                        <h4>info[at]jamesvince.me</h4>
                         <span class="lm-info-block-value"></span>
                         <span class="lm-info-block-text"></span>
                       </div>
