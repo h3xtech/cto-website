@@ -576,7 +576,16 @@
                           <div class="divider"></div>
                           <div class="right-part">
                             <h4 class="item-title">Senior Ui/Ux Designer</h4>
-                            <p>Maecenas tempus faucibus rutrum. Duis eu aliquam urna. Proin vitae nulla tristique, ornare felis id, congue libero. Nam volutpat euismod quam.</p>
+                            <p>
+                              Key Qualifications & Responsibilities
+                            </p>
+                            <ul>
+                              <li>Created the first flagship game call Off-World Origins</li>
+                              <li>Established an off-shore entity in Panama City</li>
+                              <li>enerated $4M in VC funding by building strategic relationships with 3 Fortune 500 companies</li>
+                              <li>Spearheaded the introduction of an automated SalsForce 360 platform application saving the company $100,000 per year in CRM fees</li>
+                              <li>Coordinated the adoption of the Agile methodology across all departments</li>
+                            </ul>
                           </div>
                         </div>
                         
