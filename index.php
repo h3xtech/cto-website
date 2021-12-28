@@ -181,8 +181,8 @@
                           </li>
 
                           <li>
-                            <span class="title">Phone</span>
-                            <span class="value">+0123 123 456 789</span>
+                            <span class="title">Telegram</span>
+                            <span class="value"><a href="https://t.me/" target="_blank">h3xTech</span>
                           </li>
                         </ul>
                       </div>
