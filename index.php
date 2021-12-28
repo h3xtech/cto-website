@@ -167,7 +167,7 @@
                           and an influencial figure on LinkedIn and Angel.co. 
                       </p>
                       <p>
-                          I have helped secure over &#163;30,000,000 for for 8 comapnies to deliver 8 enterprise applications
+                          I have helped secure over &#163;30,000,000 for for 8 comapnies to deliver 9 enterprise applications
                           each with 7 and 8 figure anual revenues.
                       </p>
                     </div>
@@ -628,7 +628,7 @@
                     <div class="col-xs-12 col-sm-5">
                       <!-- Design Skills -->
                       <div class="block-title">
-                        <h3>Design <span>Skills</span></h3>
+                        <h3>Leadership <span>Skills</span></h3>
                       </div>
 
                       <div class="skills-info skills-second-style">
@@ -679,7 +679,7 @@
 
                       <!-- Coding Skills -->
                       <div class="block-title">
-                        <h3>Coding <span>Skills</span></h3>
+                        <h3>Management <span>Skills</span></h3>
                       </div>
 
                       <div class="skills-info skills-second-style">
