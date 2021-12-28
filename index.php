@@ -154,7 +154,22 @@
                   <!-- Personal Information -->
                   <div class="row">
                     <div class="col-xs-12 col-sm-7">
-                      <p>Proin volutpat mauris ac pellentesque pharetra. Suspendisse congue elit vel odio suscipit, sit amet tempor nisl imperdiet. Quisque ex justo, faucibus ut mi in, condimentum finibus dolor. Aliquam vitae hendrerit dolor, eget imperdiet mauris. Maecenas et ante id ipsum condimentum dictum et vel massa. Ut in imperdiet dolor, vel consectetur dui.</p>
+                      <p>I've worked in technology for over 20 years, starting as a 3rd line tech support agent and working my way
+                          up to full stack web developer, then on through systems administrator, lead devops architect, 
+                          VP of engineering and finally CTO. 
+                      </p>
+                      <p>
+                          I have been a CTO since 2016, having worked with New York City power houses, TOp london startups and 
+                          very large crypto hedge funds with over $2 billion in Assets Under Management (AUM).
+                      </p>
+                      <p>
+                          In recent years I have been a keynote speaker at Blockchian live, Malta Gaming Convention (Sigma) 
+                          and an influencial figure on LinkedIn and Angel.co. 
+                      </p>
+                      <p>
+                          I have helped secure over &#163;30,000,000 for for 8 comapnies to deliver 8 enterprise applications
+                          each with 7 and 8 figure anual revenues.
+                      </p>
                     </div>
 
                     <div class="col-xs-12 col-sm-5">
