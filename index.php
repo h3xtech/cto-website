@@ -446,8 +446,8 @@
                             </div>
                             
                             <div class="fw-pricing-row">
-                              <span>$15,000 USD</span>
-                              <small>per month</small>
+                              <span>$15,000</span>
+                              <small>USD per month</small>
                             </div>
                             
                             <div class="fw-button-row">
@@ -468,7 +468,7 @@
                             
                             <div class="fw-pricing-row">
                               <span>$200,000</span>
-                              <small>per year</small>
+                              <small>USD per year</small>
                             </div>
 
                             <div class="fw-button-row">
