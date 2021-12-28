@@ -570,12 +570,12 @@
 
                         <div class="timeline-item clearfix">
                           <div class="left-part">
-                            <h5 class="item-period">2013 - 2016</h5>
-                            <span class="item-company">Adobe</span>
+                            <h5 class="item-period">Nov 2021 - Presant</h5>
+                            <span class="item-company">h3xGames</span>
                           </div>
                           <div class="divider"></div>
                           <div class="right-part">
-                            <h4 class="item-title">Senior Ui/Ux Designer</h4>
+                            <h4 class="item-title">Co-Founder Unity Developer</h4>
                             <p>
                               Key Qualifications & Responsibilities
                             </p>
@@ -592,12 +592,21 @@
                         <div class="timeline-item clearfix">
                           <div class="left-part">
                             <h5 class="item-period">2011 - 2013</h5>
-                            <span class="item-company">Google</span>
+                            <span class="item-company">Koobli</span>
                           </div>
                           <div class="divider"></div>
                           <div class="right-part">
-                            <h4 class="item-title">Junior Ui/Ux Designer</h4>
-                            <p>Duis mollis nunc quis quam viverra venenatis. Nulla nulla arcu, congue vitae nunc ac, sodales ultricies diam. Nullam justo leo, tincidunt sit amet.</p>
+                            <h4 class="item-title">Technical Director & Board Advisor</h4>
+                            <p>
+                              Key Qualifications & Responsibilities
+                            </p>
+                            <ul>
+                              <li>Drove growth and innovation for a leading SaaS company with 3 core products an annual revenue of $22m</li>
+                              <li>Initiated and managed the introduction of a cross-platform mobile version of the desktop product, which reached 300k+ downloads in the first quarter</li>
+                              <li>enerated $4M in VC funding by building strategic relationships with 3 Fortune 500 companies</li>
+                              <li>Generated $3.6M in VC funding through cultivating relationships with top London Crypto hedge funds and family offices</li>
+                              <li>• Built the prototype for a $500,000 developer API used by the US and UK military</li>
+                            </ul>
                           </div>
                         </div>
                       </div>
